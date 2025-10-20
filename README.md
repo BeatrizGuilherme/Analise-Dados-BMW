@@ -54,4 +54,4 @@ Receita Total = SUMX(Fato, Fato[Sales_volume] * Fato[Price_USD])
 
 - DAX
 
-- Excel / Kaggle Dataset 
+- CSV / Kaggle Dataset 
